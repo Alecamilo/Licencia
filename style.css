@@ -267,7 +267,7 @@
       position: absolute;
       background-size: cover;
       height: 100vh;
-      background-image: linear-gradient(to top, rgba(247, 75, 7, 0.582) 0%, rgba(0, 0, 0, 0.404) 100%),url(../img/Bues.jpg);
+      background-image: linear-gradient(to top, rgba(247, 75, 7, 0.582) 0%, rgba(0, 0, 0, 0.404) 100%),url(/img/Bues.jpg);
       background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed;
